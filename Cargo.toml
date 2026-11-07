@@ -1,0 +1,10 @@
+[package]
+name = "quran-rs-tafseer-cross-linker"
+version = "1.0.0"
+edition = "2021"
+description = "Classical Tafseer & Asbab Al-Nuzul Knowledge Graph Linker"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "quran_rs_tafseer_cross_linker"
+path = "main.rs"
